@@ -17,16 +17,15 @@ La 4ème valeur correspond à la durée de l'appel en secondes.
 
 # Utilisation
 
-Télécharger le fichier (../download/AndroidCallLogStats-1.0-SNAPSHOT-jar-with-dependencies) dans un répertoire
+Télécharger le fichier [Fichier JAR à télécharger](download/AndroidCallLogStats-1.0-SNAPSHOT-jar-with-dependencies) dans un répertoire
 
 Ensuite lancer la commande suivante : 
 
-   java -jar -DclbuFolder="/Users/camilledesmots/Google Drive/oed.lpo35/Historique des appels/Log des appels/" -DresultFolder="./"  AndroidCallLogStats-1.0-SNAPSHOT-jar-with-dependencies.jar
+    java -jar -DclbuFolder="/Users/camilledesmots/Google Drive/oed.lpo35/Historique des appels/Log des appels/" -DresultFolder="./" AndroidCallLogStats-1.0-SNAPSHOT-jar-with-dependencies.jar
 
-Le paramètre "clbuFolder=" correspond au répertoire ou se trouvent les fichiers ".clbu" à analyser.
-Le paramètre "resultFolder=" correspond au répertoire ou va être généré le fichier EXCEL.
+Le paramètre **"clbuFolder="** correspond au répertoire ou se trouvent les fichiers ".clbu" à analyser.
+Le paramètre **"resultFolder="** correspond au répertoire ou va être généré le fichier EXCEL.
 
-Exemple de nom de fichier EXCEL généré : 
-"Statistiques des appels au 2020-12-01 généré le 2020-12-03_23-34-26.xlsx"
+Exemple de nom de fichier EXCEL généré : "Statistiques des appels au 2020-12-01 généré le 2020-12-03_23-34-26.xlsx".
 La date "2020-12-01" correspond à la date de l'appel le plus récent trouvé dans les fichiers.
  
