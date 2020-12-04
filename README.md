@@ -17,7 +17,7 @@ La 4ème valeur correspond à la durée de l'appel en secondes.
 
 # Utilisation
 
-Télécharger le fichier [Fichier JAR à télécharger](download/AndroidCallLogStats-1.0-SNAPSHOT-jar-with-dependencies) dans un répertoire
+Télécharger le fichier [Fichier JAR à télécharger](./download/AndroidCallLogStats-1.0-SNAPSHOT-jar-with-dependencies.jar) dans un répertoire
 
 Ensuite lancer la commande suivante : 
 
