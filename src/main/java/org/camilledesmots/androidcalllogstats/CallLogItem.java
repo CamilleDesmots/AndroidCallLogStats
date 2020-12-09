@@ -22,7 +22,7 @@ public class CallLogItem {
     private static final int OUTGOING_TYPE = 2;
     private static final int MISSED_TYPE = 3;
 
-    private final DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:MM");
+    private final DateTimeFormatter dtf = DateTimeFormatter.ofPattern("yyyy/MM/dd HH:mm");
     
     /**
      * The phone number
